@@ -3,22 +3,22 @@
 		"title":"Update 2",
 		"date": "22.10.2023",
 		"updates": [
-			"Updated <update 1>",
-			"Updated <update 2>",
-			"Updated <update 3>",
-			"Removed <update 4>",
-			"Add <update 5>"
+			"Updated update 1",
+			"Updated update 2",
+			"Updated update 3",
+			"Removed update 4",
+			"Add update 5"
 		]
 	},
 	{
 		"title":"Update 1",
 		"date": "22.10.2020",
 		"updates": [
-			"Updated <update 1>",
-			"Delete <update 2>",
-			"Updated <update 3>",
-			"Removed <update 4>",
-			"Updated <update 5>"
+			"Updated update 1",
+			"Delete update 2",
+			"Updated update 3",
+			"Removed update 4",
+			"Updated update 5"
 		]
 	}
 ]
