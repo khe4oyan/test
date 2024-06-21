@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 4px;
+}
+
+details {
+  margin-left: 20px;
+}
+summary {
+  width: fit-content;
+  padding: 5px 10px;
+  margin-bottom: 2px;
+  background-color: rgba(0,0, 0, .15);
+}
+
+p {
+  margin-left: 5px;
+  margin-bottom: 2px;
+  padding: 5px 10px;
+  width: fit-content;
+  border: 1px solid rgba(0,0, 0, .7);
+}
